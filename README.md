@@ -24,7 +24,7 @@ NLB 10 : 1 (en)
 
 ## requirements
 
-Het programma is gemaakt met python 3.7\
+Het programma is gemaakt met Python 3.7
 
 De volgende packages moeten geinstalleerd zijn:
 * NumPy ([v1.17.2](https://github.com/numpy/numpy/releases); [BSD License](https://www.numpy.org/license.html))  
