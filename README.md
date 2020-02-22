@@ -1,4 +1,4 @@
-# Script voor het reformatten van NLB notebalk images
+# Script voor het reformatten van NLB notebalk afbeeldingen
 
 De [nieuwe liedboek (NLB, https://liedboek.liedbundels.nu/)](https://liedboek.liedbundels.nu/) wordt op de website te download aangeboden als
 afbeeldingen met notebalken. Helaas hebben deze niet niet full-HD formaat die
